@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Anil Nunnagopula</h1>
 <p align="center">
   🏗️ B.Tech Civil Engineering | 📚 Minor in AI/ML | 🧑‍💻 Full Stack Developer <br>
-  🚀 Creator of ConnectConstructions & ConnectingHostels | 👨‍🏫 Mentor @ Smart Interviews
+  🚀 Creator of ConnectingConstructions & ConnectingHostels | 👨‍🏫 Mentor @ Smart Interviews
 </p>
 
 ---
@@ -20,19 +20,19 @@
 - 💡 Blending Civil Engineering expertise with powerful Web Dev & AI/ML solutions.
 - 💼 Passionate about building real-world platforms with impact — from hostel bookings to construction marketplaces.
 - 🎯 Always exploring, mentoring, learning, and building cool things.
-- 🔐 My major projects are **private and protected**, but live demos available on request.
+- 🔐 My major projects are **private and protected**, strictly no clones.
 
 ---
 
 ## 💼 Projects
 
 ### 🏗️ ConnectConstructions *(Private)*
-> A construction materials platform for suppliers and builders. Think Amazon for cement, trucks, interiors, etc.
+> A construction materials platform for suppliers and builders. The one-stop platform for constructions.
 
 ### 🏠 Connecting Hostels *(Private)*
 > A real-time hostel discovery platform for students with filters, photos, and live availability.
 
-🎯 Deployed projects and demos are available on request or at my portfolio below.
+🎯 Deployed projects and demos are available at my portfolio below.
 
 ---
 
@@ -89,12 +89,12 @@
 
 ## ⚠️ License & Usage
 
-> 🛡️ All repositories under this profile are either private or protected.  
+> 🛡️ All repositories under this profile are either protected.  
 > 🚫 **Unauthorized use, copying, or redistribution is strictly prohibited.**  
 > 📩 For collaborations, access please contact directly.
 
 ---
 
-> ✨ *"Building platforms that matter — from campus to construction site."*  
+> ✨ *"Building platforms that matters."*  
 > — *Anil Nunnagopula*
 
